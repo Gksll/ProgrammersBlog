@@ -1,4 +1,5 @@
 ﻿using Entities.Concreate;
+using Microsoft.EntityFrameworkCore;
 using Shared.Entities.Data.Concrete.EntityFramework;
 using System;
 using System.Collections.Generic;
@@ -10,5 +11,8 @@ namespace Data.Concrete.EntityFramework.Repositories
 {
     public class CategoryRepository : EfEntityRepositoryBase<Category>
     {
+        public CategoryRepository(DbContext context) : base(context)
+        {
+        }
     }
 }
