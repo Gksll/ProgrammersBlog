@@ -11,9 +11,9 @@ using System.Threading.Tasks;
 
 namespace Data.Concrete.EntityFramework.Repositories
 {
-    public class ArticleRepository : EfEntityRepositoryBase<Article>, IArticleRepository
+    public class EfArticleRepository : EfEntityRepositoryBase<Article>, IArticleRepository
     {
-        public ArticleRepository(DbContext dbContext) : base(dbContext)
+        public EfArticleRepository(DbContext dbContext) : base(dbContext)
         {
 
         }

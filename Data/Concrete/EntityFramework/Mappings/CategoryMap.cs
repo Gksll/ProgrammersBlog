@@ -29,6 +29,50 @@ namespace Data.Concrete.EntityFramework.Mappings
             builder.Property(c => c.Note).HasMaxLength(2000);
             builder.ToTable("Categories");
 
+            builder.HasData(new Category
+            {
+                Id = 1,
+                Name = "C#",
+                Description = "C# programala dili ile ilgili en güncel bilgiler",
+                IsActive = true,
+                IsDeleted = false,
+                CreatedByName = "InitialCreate",
+                CreatedDate = DateTime.Now,
+                ModifiedByName = "InitialCreate",
+                ModifiedDate = DateTime.Now,
+                Note = "C# blok kategorisi"
+
+            },
+            new Category
+            {
+                Id = 2,
+                Name = "Java",
+                Description = "Java programala dili ile ilgili en güncel bilgiler",
+                IsActive = true,
+                IsDeleted = false,
+                CreatedByName = "InitialCreate",
+                CreatedDate = DateTime.Now,
+                ModifiedByName = "InitialCreate",
+                ModifiedDate = DateTime.Now,
+                Note = "Java blok kategorisi"
+
+            },
+            new Category
+            {
+                Id = 3,
+                Name = "NodeJS",
+                Description = "NodeJS programala dili ile ilgili en güncel bilgiler",
+                IsActive = true,
+                IsDeleted = false,
+                CreatedByName = "InitialCreate",
+                CreatedDate = DateTime.Now,
+                ModifiedByName = "InitialCreate",
+                ModifiedDate = DateTime.Now,
+                Note = "NodeJS blok kategorisi"
+
+            });
+
+
         }
     }
 }

@@ -1,4 +1,5 @@
-﻿using Entities.Concreate;
+﻿using Data.Abstract;
+using Entities.Concreate;
 using Microsoft.EntityFrameworkCore;
 using Shared.Entities.Data.Concrete.EntityFramework;
 using System;
@@ -9,9 +10,9 @@ using System.Threading.Tasks;
 
 namespace Data.Concrete.EntityFramework.Repositories
 {
-    public class CategoryRepository : EfEntityRepositoryBase<Category>
+    public class EfCategoryRepository : EfEntityRepositoryBase<Category>, ICategoryRepository
     {
-        public CategoryRepository(DbContext context) : base(context)
+        public EfCategoryRepository(DbContext context) : base(context)
         {
         }
     }

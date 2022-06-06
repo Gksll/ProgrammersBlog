@@ -23,7 +23,22 @@ namespace Data.Concrete.EntityFramework.Mappings
             builder.Property(r => r.IsActive).IsRequired(true);
             builder.Property(r => r.IsDeleted).IsRequired(true);
             builder.Property(r => r.Note).HasMaxLength(2000);
+
             builder.ToTable("Roles");
+            builder.HasData(new Role
+            {
+                Id = 1,
+                Name = "Admin",
+                Description = "Admin Rolü, Tüm haklara sahiptir.",
+                IsActive = true,
+                IsDeleted = false,
+                CreatedByName = "InitialCreate",
+                CreatedDate = DateTime.Now,
+                ModifiedByName = "InitialCreate",
+                ModifiedDate = DateTime.Now,
+                Note = "Admin Rolünü ve yetkisini içerir"
+
+            });
 
         }
     }

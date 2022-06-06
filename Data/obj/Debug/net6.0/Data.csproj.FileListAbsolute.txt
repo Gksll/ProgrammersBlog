@@ -3,3 +3,17 @@ C:\Users\Red_Beard\source\repos\gokseldogan.com.tr\Data\obj\Debug\net6.0\Data.Ge
 C:\Users\Red_Beard\source\repos\gokseldogan.com.tr\Data\obj\Debug\net6.0\Data.AssemblyInfoInputs.cache
 C:\Users\Red_Beard\source\repos\gokseldogan.com.tr\Data\obj\Debug\net6.0\Data.AssemblyInfo.cs
 C:\Users\Red_Beard\source\repos\gokseldogan.com.tr\Data\obj\Debug\net6.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\Red_Beard\source\repos\gokseldogan.com.tr\Data\bin\Debug\net6.0\Data.deps.json
+C:\Users\Red_Beard\source\repos\gokseldogan.com.tr\Data\bin\Debug\net6.0\Data.runtimeconfig.json
+C:\Users\Red_Beard\source\repos\gokseldogan.com.tr\Data\bin\Debug\net6.0\Data.dll
+C:\Users\Red_Beard\source\repos\gokseldogan.com.tr\Data\bin\Debug\net6.0\Data.pdb
+C:\Users\Red_Beard\source\repos\gokseldogan.com.tr\Data\bin\Debug\net6.0\Entities.dll
+C:\Users\Red_Beard\source\repos\gokseldogan.com.tr\Data\bin\Debug\net6.0\Shared.dll
+C:\Users\Red_Beard\source\repos\gokseldogan.com.tr\Data\bin\Debug\net6.0\Entities.pdb
+C:\Users\Red_Beard\source\repos\gokseldogan.com.tr\Data\bin\Debug\net6.0\Shared.pdb
+C:\Users\Red_Beard\source\repos\gokseldogan.com.tr\Data\obj\Debug\net6.0\Data.csproj.CopyComplete
+C:\Users\Red_Beard\source\repos\gokseldogan.com.tr\Data\obj\Debug\net6.0\Data.dll
+C:\Users\Red_Beard\source\repos\gokseldogan.com.tr\Data\obj\Debug\net6.0\refint\Data.dll
+C:\Users\Red_Beard\source\repos\gokseldogan.com.tr\Data\obj\Debug\net6.0\Data.pdb
+C:\Users\Red_Beard\source\repos\gokseldogan.com.tr\Data\obj\Debug\net6.0\Data.genruntimeconfig.cache
+C:\Users\Red_Beard\source\repos\gokseldogan.com.tr\Data\obj\Debug\net6.0\ref\Data.dll

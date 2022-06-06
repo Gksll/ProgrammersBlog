@@ -10,3 +10,10 @@ C:\Users\Red_Beard\source\repos\gokseldogan.com.tr\Services\obj\Debug\net6.0\Ser
 C:\Users\Red_Beard\source\repos\gokseldogan.com.tr\Services\obj\Debug\net6.0\refint\Services.dll
 C:\Users\Red_Beard\source\repos\gokseldogan.com.tr\Services\obj\Debug\net6.0\Services.pdb
 C:\Users\Red_Beard\source\repos\gokseldogan.com.tr\Services\obj\Debug\net6.0\ref\Services.dll
+C:\Users\Red_Beard\source\repos\gokseldogan.com.tr\Services\bin\Debug\net6.0\Data.dll
+C:\Users\Red_Beard\source\repos\gokseldogan.com.tr\Services\bin\Debug\net6.0\Entities.dll
+C:\Users\Red_Beard\source\repos\gokseldogan.com.tr\Services\bin\Debug\net6.0\Shared.dll
+C:\Users\Red_Beard\source\repos\gokseldogan.com.tr\Services\bin\Debug\net6.0\Data.pdb
+C:\Users\Red_Beard\source\repos\gokseldogan.com.tr\Services\bin\Debug\net6.0\Entities.pdb
+C:\Users\Red_Beard\source\repos\gokseldogan.com.tr\Services\bin\Debug\net6.0\Shared.pdb
+C:\Users\Red_Beard\source\repos\gokseldogan.com.tr\Services\obj\Debug\net6.0\Services.csproj.CopyComplete
